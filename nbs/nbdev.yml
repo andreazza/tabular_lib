@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tabular_lib"
+  site-url: "https://andreazza.github.io/tabular_lib"
+  description: "Lib to work on tabular ML cases"
+  repo-branch: main
+  repo-url: "https://github.com/andreazza/tabular_lib"
